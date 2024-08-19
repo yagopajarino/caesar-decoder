@@ -8,7 +8,7 @@ It is written in Rust and can be executed through this bash command
 
 ## ¿How it works?
 
-[Caesar Cipher]() is one of the simplest cipher algorithms, apparently used by Julius Caesar to send messages to their generals on the battle fields.
+[Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher) is one of the simplest cipher algorithms, apparently used by Julius Caesar to send messages to their generals on the battle fields.
 
 It simply changes every letter of the message for the one $$n$$ times after in the alphabet.
 
